@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Join Room.unity
     guid: 6376c10e605671143ac152181623c841
+  - enabled: 1
+    path: Assets/Scenes/How To Play.unity
+    guid: 997945a2b36659d49a6d1124c655ab18
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e533d6f7b9d7a2145a680f217509f019, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ef3bea12f2ddbca4f928abadcfe2d3fb, type: 2}
