@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Create & Join.unity
     guid: e8e068da11dd6474491fa240fad5fad6
+  - enabled: 1
+    path: Assets/Scenes/Create Room.unity
+    guid: 5f553141df6e116439342743bdad9e18
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e533d6f7b9d7a2145a680f217509f019, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ef3bea12f2ddbca4f928abadcfe2d3fb, type: 2}
